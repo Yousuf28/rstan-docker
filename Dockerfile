@@ -63,6 +63,7 @@ RUN install2.r --error \
     shinythemes \ 
     threejs \ 
     xts \
+    tidyverse \
     rsconnect
 
 ## build/install development version of shinystan
